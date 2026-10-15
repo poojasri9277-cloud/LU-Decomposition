@@ -52,6 +52,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Output:
 ## 5(A)
 <img width="745" height="777" alt="image" src="https://github.com/user-attachments/assets/a3fdebf8-6391-4b98-851b-337dd849b22f" />
+
 ## 5(B)
 <img width="647" height="608" alt="image" src="https://github.com/user-attachments/assets/bb758ec1-3088-4b57-8199-3e950c59b45d" />
 
