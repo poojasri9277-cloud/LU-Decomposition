@@ -12,7 +12,13 @@ To write a program to find the LU Decomposition of a matrix.
 1. Start the program and import the required NumPy and SciPy libraries
 2. Define the given square matrix A
 3. Use the LU decomposition function to find the lower triangular matrix L and upper triangular matrix U
-4.Display the matrices L and U ,and verify the result by checking A = LU. 
+4. Display the matrices L and U ,and verify the result by checking A = LU. 
+
+## 5(B)
+1. Start the program and import the required NumPy and SciPy libraries
+2. Define the given square matrix A
+3. Use the LU decomposition function to find the lower triangular matrix L and upper triangular matrix U
+4. Display the matrices  L and U, and verify the result by checking A = LU.
 
 ## Program:
 ## 5(A) To find the L and U matrix
@@ -28,13 +34,6 @@ To write a program to find the LU Decomposition of a matrix.
 ### print(L)
 ### print(U)
 
-## Algorithm
-## 5(B)
-1. Start the program and import the required NumPy and SciPy libraries
-2. Define the given square matrix A
-3. Use the LU decomposition function to find the lower triangular matrix L and upper triangular matrix U
-4. Display the matrices  L and U, and verify the result by checking A = LU.
-   
 ## 5(B) To find the LU Decomposition of a matrix
 ### Program to find the LU Decomposition of a matrix.
 ### Developed by: 
